@@ -1,5 +1,3 @@
-Here's the description of the code in HTML format to post on GitHub as a README.md file:
-
 <h1>YouTube Search to MongoDB</h1>
 <p>This script searches for channels and videos on YouTube based on a specified keyword and saves the results to a MongoDB database.</p>
 <h2>Requirements</h2>
