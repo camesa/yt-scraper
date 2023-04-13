@@ -22,5 +22,3 @@
   <li>Enter the keyword you want to search for when prompted.</li>
   <li>The script will search for channels and videos related to the keyword on YouTube and save the results to the specified MongoDB database.</li>
 </ol> 
-<h2>License</h2>
-<p>This project is licensed under the terms of the MIT license.</p>
